@@ -52,9 +52,11 @@ description: |
 | `references/moving-averages.md` | 趋势/均线判断 |
 | `references/chart-patterns.md` | 中大级别形态（W底、头肩、三角形等） |
 | `references/market-structure.md` | 选股逻辑、板块分化 |
+| `references/fundamental-analysis.md` | 个股/财报模式的基本面分析（六维透视） |
+| `references/decision-framework.md` | 决策辅助模式（事前验尸、反转测试、偏差扫描） |
 | `references/cognitive-biases.md` | 深入解释偏差时 |
 
-技术面分析通常需同时加载前四份。已读过不重复读取。K线文档侧重短期信号，形态文档侧重中大级别结构，两者配合：先定大结构，再找入场点。
+技术面分析通常需同时加载前四份。个股模式需加载 fundamental-analysis.md。决策辅助模式需加载 decision-framework.md。已读过不重复读取。
 
 #### 数据策略——主动搜索不等用户
 
